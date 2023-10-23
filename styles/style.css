@@ -1,0 +1,70 @@
+.navBar{
+    background-color: red;
+    height: 50px ;
+}
+.acceuil{
+    background-color: yellow;
+    height: 150px;
+    margin-top: 10px;
+}
+.principal{
+    display: flex;
+}
+
+.globalG{
+    background-color: blue;
+    width: 50%;
+    height : 500px ;
+    margin-top: 10px ;
+    
+}
+.globalD{
+height: 500px;
+width: 50%;
+margin: 10px ;
+
+}
+.globalH{
+    background-color: green;
+    height: 250px;
+    width: 100%;
+    margin-left: 5px;
+}
+.globalB{
+    display: flex;
+    height: 250px;
+    width: 100%;
+    margin-left: 5px;
+}
+.BG{
+    background-color: orange;
+    height: 250px;
+    width: 50%;
+    margin-top: 5px;
+    
+}
+.BD{
+    height: 250px;
+    width: 50%;
+}
+.BDH{
+background-color: gray;
+height: 125px;
+width: 100%;
+margin-top: 5px;
+margin-left: 5px;
+
+}
+.der{
+    background-color: black;
+    height: 125px;
+    width:50% ;
+    margin-top: 5px;
+}
+.der1{
+    height: 125px;
+    width: 50%;
+}
+.BDB{
+    display: flex;
+}
